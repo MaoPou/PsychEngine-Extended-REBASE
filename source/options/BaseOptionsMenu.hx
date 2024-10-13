@@ -29,6 +29,7 @@ import backend.MusicBeatSubstate;
 import objects.Alphabet;
 import objects.CheckboxThingie;
 import objects.AttachedText;
+import objects.Character;
 
 using StringTools;
 
