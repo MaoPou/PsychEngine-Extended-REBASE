@@ -1,5 +1,7 @@
 package mobile;
 
+import backend.MusicBeatState
+
 #if mobile
 import lime.utils.Assets as LimeAssets;
 import openfl.utils.Assets as OpenFLAssets;
