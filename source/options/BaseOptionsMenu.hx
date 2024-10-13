@@ -27,6 +27,7 @@ import flixel.graphics.FlxGraphic;
 import backend.Controls;
 import backend.MusicBeatSubstate;
 import objects.Alphabet;
+import objects.CheckboxThingie;
 
 using StringTools;
 
