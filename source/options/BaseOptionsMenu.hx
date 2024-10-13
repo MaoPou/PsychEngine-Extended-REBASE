@@ -28,6 +28,7 @@ import backend.Controls;
 import backend.MusicBeatSubstate;
 import objects.Alphabet;
 import objects.CheckboxThingie;
+import objects.AttachedText;
 
 using StringTools;
 
