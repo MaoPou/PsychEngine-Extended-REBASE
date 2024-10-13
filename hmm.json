@@ -15,7 +15,7 @@
     {
       "name": "extension-androidtools",
       "type": "git",
-      "ref": "main",
+      "ref": "master",
       "url": "https://github.com/MAJigsaw77/extension-androidtools"
     },
     {
