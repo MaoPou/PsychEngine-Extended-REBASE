@@ -10,6 +10,7 @@ import haxe.io.Bytes;
 import backend.Conductor.BPMChangeEvent;
 import backend.Section.SwagSection;
 import backend.Song.SwagSong;
+import backend.MusicBeatState;
 import flixel.FlxG;
 import flixel.FlxObject;
 import flixel.FlxSprite;
