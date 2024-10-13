@@ -36,6 +36,7 @@ import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 import openfl.Assets;
 import backend.MusicBeatState;
+import objects.Alphabet;
 
 using StringTools;
 typedef TitleData =
