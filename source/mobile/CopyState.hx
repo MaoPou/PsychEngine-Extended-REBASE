@@ -1,6 +1,6 @@
 package mobile;
 
-import backend.MusicBeatState
+import backend.MusicBeatState;
 
 #if mobile
 import lime.utils.Assets as LimeAssets;
