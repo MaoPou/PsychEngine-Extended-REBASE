@@ -7,6 +7,7 @@ import flixel.math.FlxMath;
 import flixel.util.FlxColor;
 import flash.display.BitmapData;
 import states.editors.ChartingState;
+import shaders.ColorSwap;
 
 using StringTools;
 
