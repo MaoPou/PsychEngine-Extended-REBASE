@@ -35,6 +35,7 @@ import flixel.system.FlxSound;
 import flixel.text.FlxText;
 import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
+import objects.AttachedSprite;
 #if mobile
 import mobile.flixel.FlxButton;
 #else
