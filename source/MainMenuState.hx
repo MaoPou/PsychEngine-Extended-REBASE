@@ -125,6 +125,10 @@ class MainMenuState extends MusicBeatState
 		fnfVer.scrollFactor.set();
 		fnfVer.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(fnfVer);
+		var HoshinoVer:FlxText = new FlxText(12, FlxG.height - 64, 0, "Hoshino, 12);
+		HoshinoVer.scrollFactor.set();
+		HoshinoVer.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		add(HoshinoVer);
 		changeItem();
 
 		#if ACHIEVEMENTS_ALLOWED
