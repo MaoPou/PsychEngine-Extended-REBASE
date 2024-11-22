@@ -5,10 +5,10 @@ import openfl.display.BitmapData;
 if LUA_ALLOWED
 import llua.Lua;
 import llua.LuaL;
-import llua.State;
 import llua.Convert;
 #end
 */
+import llua.State;
 import animateatlas.AtlasFrameMaker;
 import flixel.FlxG;
 import flixel.addons.effects.FlxTrail;
