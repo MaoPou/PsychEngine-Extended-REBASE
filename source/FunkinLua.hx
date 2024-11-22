@@ -3,9 +3,10 @@ package;
 import openfl.display.BitmapData;
 /*#
 if LUA_ALLOWED
-import llua.LuaL;
+
 #end
 */
+import llua.LuaL;
 import llua.Lua;
 import llua.Convert;
 import llua.State;
