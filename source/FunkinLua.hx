@@ -3,11 +3,11 @@ package;
 import openfl.display.BitmapData;
 /*#
 if LUA_ALLOWED
-import llua.Lua;
 import llua.LuaL;
-import llua.Convert;
 #end
 */
+import llua.Lua;
+import llua.Convert;
 import llua.State;
 import animateatlas.AtlasFrameMaker;
 import flixel.FlxG;
