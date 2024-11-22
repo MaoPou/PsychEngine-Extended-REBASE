@@ -1,15 +1,14 @@
 package;
 
 import openfl.display.BitmapData;
-/*#
-if LUA_ALLOWED
 
-#end
-*/
+#if LUA_ALLOWED
 import llua.LuaL;
 import llua.Lua;
 import llua.Convert;
 import llua.State;
+#end
+
 import animateatlas.AtlasFrameMaker;
 import flixel.FlxG;
 import flixel.addons.effects.FlxTrail;
