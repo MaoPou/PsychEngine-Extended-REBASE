@@ -9,8 +9,8 @@
     {
       "name": "linc_luajit",
       "type": "git",
-      "ref": "master",
-      "url": "https://github.com/MaoPou/linc_luajit-0.6.3"
+      "ref": "main",
+      "url": "https://github.com/MaoPou/linc_luajit-rewriten-0.6.3"
     },
     {
       "name": "extension-androidtools",
